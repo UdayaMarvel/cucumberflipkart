@@ -97,7 +97,7 @@ public class StepDefinition extends CommonActions{
 			HSSFCell wcell = wrow.createCell(0);
 			WebElement hometheatre = hometheatres1.get(j);
 			String names = hometheatre.getText();
-			wcell.setCellValue(names);
+//			wcell.setCellValue(names);
 			
 		}
 		h.write(CommonActions.f1);
