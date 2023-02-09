@@ -207,7 +207,7 @@
     "description": "",
     "id": "flipkartelectronics",
     "keyword": "Feature",
-    "uri": "src/test/resources/Createexcel.feature",
+
     "tags": [
       {
         "name": "@browse",
