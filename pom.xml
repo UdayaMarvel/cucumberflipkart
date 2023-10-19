@@ -50,7 +50,7 @@
 						<projectName>cucumberflipkart</projectName>
 								<outputDirectory>${project.build.directory}/cucumber-report-html</outputDirectory>
 								<jsonFiles>
-								<param>${project.build.directory}\reports.json</param>
+								<param>${project.build.directory}/reports.json</param>
 								</jsonFiles>
                         <inputDirectory>${project.build.directory}/cucumber</inputDirectory>
                         <checkBuildResult>false</checkBuildResult>
